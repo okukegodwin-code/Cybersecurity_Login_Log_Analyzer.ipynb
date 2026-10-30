@@ -1,0 +1,2 @@
+ip_address,failed_attempts,time_window,result
+192.0.2.10,5,5 minutes,Suspicious activity detected
